@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/css/main.b4eae362.chunk.css",
+    "main.js": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/js/main.d68b6111.chunk.js",
+    "main.js.map": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/js/main.d68b6111.chunk.js.map",
+    "runtime-main.js": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/js/runtime-main.88b45778.js",
+    "runtime-main.js.map": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/js/runtime-main.88b45778.js.map",
+    "static/js/2.33a810b8.chunk.js": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/js/2.33a810b8.chunk.js",
+    "static/js/2.33a810b8.chunk.js.map": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/js/2.33a810b8.chunk.js.map",
+    "index.html": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/index.html",
+    "precache-manifest.2590545f14f1273a6505e71674e81ddc.js": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/precache-manifest.2590545f14f1273a6505e71674e81ddc.js",
+    "service-worker.js": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/service-worker.js",
+    "static/css/main.b4eae362.chunk.css.map": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/css/main.b4eae362.chunk.css.map",
+    "static/media/logo.svg": "/a-piskunov/2019-2-Track-Frontend-A-Piskunov/static/media/logo.795fb555.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b45778.js",
+    "static/js/2.33a810b8.chunk.js",
+    "static/css/main.b4eae362.chunk.css",
+    "static/js/main.d68b6111.chunk.js"
+  ]
+}
